@@ -1,1 +1,1 @@
-GRGNGEKG    
+print(12)
